@@ -17,3 +17,16 @@
     "util": "^0.12.5"
   }
 }
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "fresh-n-juicy",
+  "version": "1.0.0",
+  "main": "server.js",
+  "devDependencies": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
+
